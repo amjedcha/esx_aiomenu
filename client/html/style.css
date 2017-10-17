@@ -1,0 +1,379 @@
+@import url('https://fonts.googleapis.com/css?family=Syncopate|Unica+One');
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic,900,900italic,300italic,300,100italic,100);
+
+body, html {
+	overflow-y: hidden;
+}
+/* main.css */
+button {
+	margin: 10px auto;
+	padding: 10px 24px;
+	cursor: pointer;
+	width: 30%;
+	display: block;
+	text-transform: uppercase;
+    font-family: 'Unica One', cursive;
+	font-size: 12px;
+	border: 1px solid whitesmoke;
+	color: whitesmoke;
+    background-color: #002e4d;
+    border-radius: 25px;
+    
+}
+
+.general {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.esx {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.jobs {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.listChar {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.vehicles {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.doors {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.windows {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.characters {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.char-menu {
+	font-family: 'Roboto', sans-serif;
+	height: 700px;
+	background: ;
+	color: white;
+	width: 800px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+
+.list {
+	font-family: 'Roboto', sans-serif;
+	margin: 10px 2px;
+	padding: 10px 24px;
+	background: ;
+	color: white;
+	width: 240px;
+	position: relative;
+	top: 26%;
+	left: 43.7%;
+
+}
+
+.change {
+	font-family: 'Roboto', sans-serif;
+	margin: 10px 2px;
+	padding: 10px 24px;
+	background: ;
+	color: white;
+	width: 240px;
+	position: relative;
+	top: 26%;
+	left: 43.7%;
+
+}
+
+.delete {
+	font-family: 'Roboto', sans-serif;
+	margin: 10px 2px;
+	padding: 10px 24px;
+	background: ;
+	color: white;
+	width: 240px;
+	position: relative;
+	top: 26%;
+	left: 43.7%;
+
+}
+
+
+
+
+#close {
+	display: inline-block;
+	float: right;
+	padding: 5px;
+	padding-right: 10px;
+	color: rgb(255, 0, 0);
+}
+
+
+/* change look of buttons when hovering over them */
+button:hover {
+	background-color: #005c99;
+}
+
+
+.dialog, .warrant {
+    background-image: url('img/phone.png');
+	background-repeat: no-repeat;
+	font-family: 'Unica One', cursive;
+	background-size: 620px 430px;
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+    padding: 10px;
+	position: absolute;
+	top: 50%;
+	left: 70%;
+	margin-top: -250px;
+	margin-left: -400px;
+	padding-bottom: 20px;
+}
+#register {
+  margin: 50px 100px;
+  padding: 10px;
+}
+
+
+
+.title{
+   font-family: 'Unica One', cursive;
+   font-size: 36px;
+   text-align: center;
+   color: #002e4d;
+   text-align: center;
+   margin: 40px;
+}
+
+.title2 {
+   font-family: 'Unica One', cursive;
+   font-size: 36px;
+   text-align: center;
+   color: #002e4d;
+   text-align: center;
+   margin: 40px;
+}
+
+#jail, #makeNew, #new, .yesDel{
+    position: absolute;
+    bottom: 10%;
+    left: 45%;
+    margin: 10px 10px;
+    cursor: pointer;
+	width: 20%;
+    height: 8%;
+	display: block;
+	text-transform: uppercase;
+    font-family: 'Unica One', cursive;
+	font-size: 12px;
+	border: 1px solid whitesmoke;
+	color: whitesmoke;
+    background-color: #660000;
+    border-radius: 25px;
+
+}
+
+#cancelJail2, #cancelWarrant, #cancelWarrant2, .noDel{
+    position: absolute;
+    bottom: 10%;
+    left: 72%;
+	cursor: pointer;
+	width: 20%;
+    height: 8%;
+	display: block;
+	text-transform: uppercase;
+    font-family: 'Unica One', cursive;
+	font-size: 12px;
+	border: 1px solid whitesmoke;
+	color: whitesmoke;
+    background-color: #002e4d;
+    border-radius: 25px;
+
+}
+
+input[type=text]{
+	
+	background-image: url(img/user.png);
+	font-family: 'Unica One';
+    width: 80%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	background-position: 10px 5px; 
+}
+
+input[type=number] {
+	
+	font-family: 'Unica One';
+    width: 80%;
+    padding: 5px 5px;
+    margin: 8px 0;
+    box-sizing: border-box;
+ 
+	
+}
+
+#jailT {
+	background-image: url(img/clock.png);
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	background-position: 10px 5px;
+}
+
+#jailF {
+	background-image: url(img/receipt.png);
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	background-position: 10px 5px;
+
+}
+
+
+
+#fullName {
+	position: absolute;
+    bottom: 60%;
+    left: 15%;
+	font-family: 'Unica One';
+    width: 50%;
+    padding: 9px 5px;
+    margin: 10px 0;
+    box-sizing: border-box;
+	background-image: url(img/user.png);
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	background-position: 10px 5px;
+}
+
+#crimes {
+	position: absolute;
+    bottom: 50%;
+    left: 15%;
+	font-family: 'Unica One';
+    width: 50%;
+    padding: 9px 5px;
+    margin: 10px 0;
+    box-sizing: border-box;
+	background-image: url(img/knife.png);
+	background-repeat: no-repeat;
+	padding-left: 40px;
+	background-position: 10px 5px;
+
+}
+
+
+#listWarrant {
+	font-family: "Times New Roman", Georgia, Serif;;
+	font-size: 16px;
+	margin: 2px;
+	position: absolute;
+	left: 10%;
+}
+
+.player:hover{
+	cursor: pointer;
+	color: darkblue;
+}
+
+.prompt {
+	font-size: 16px;
+	position: absolute;
+	left: 24%;
+	
+}
+
